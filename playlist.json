@@ -27,10 +27,10 @@
       "duration_sec": 256
     },
     {
-      "title": "Bad Liar",
-      "artist": "Imagine Dragons",
-      "album": "Origins",
-      "duration_sec": 243
+      "Song_name": "Bad Liar",
+      "MSANII": "Imagine Dragons",
+      "Collection": "Origins",
+      "seconds": 243
     }
   ]
 }
